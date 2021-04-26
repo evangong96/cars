@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# Cars and Fuel Usage
+## By Evan Gong
+This is a dataset about cars and how much fuel they use. In this visualization, I extracted the number of horsepowers, as well as the City MPG and created a scatter plot that shows the relationship between the number of horsepowers in a car and its fuel efficiency. Clearly, the higher number of horsepowers, the worse fuel efficiency. The source of this data is from [Corgis](https://corgis-edu.github.io/corgis/csv/cars/).
 
-You can use the [editor on GitHub](https://github.com/evangong96/cars/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+TODO: Put visualization here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/evangong96/cars/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
